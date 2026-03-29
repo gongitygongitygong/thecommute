@@ -12,3 +12,10 @@ A Journey of Reflection: No puzzles, no combat. Just a walk through a life share
 The Reality of Loss: Sometimes, the world doesn't look the way we remember it.
 
 Some memories stay bright. Others... we can't quite reach anymore.
+
+
+wasd/arrow keys: move
+
+up/w: jump (some lvls only)
+
+a: interact
