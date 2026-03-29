@@ -1375,10 +1375,6 @@ function create () {
         tiles.placeOnTile(mySprite, tiles.getTileLocation(3, 14))
     }
 }
-controller.menu.onEvent(ControllerButtonEvent.Pressed, function () {
-    lvl = 7
-    tiles.placeOnTile(mySprite, tiles.getTileLocation(109, 14))
-})
 scene.onHitWall(SpriteKind.Projectile, function (sprite, location) {
     sprites.destroy(sprite)
 })
