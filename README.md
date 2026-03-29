@@ -19,3 +19,6 @@ wasd/arrow keys: move
 up/w: jump (some lvls only)
 
 a: interact
+
+
+optimised for slow hardware as the level isnt rebuilt every loop, its simply modified, resulting in an fps boost, especially on old hardware.
