@@ -1,26 +1,14 @@
  
 
 
-> Open this page at [https://gongitygongitygong.github.io/thecommute/](https://gongitygongitygong.github.io/thecommute/)
+"The long way home."
 
-## Use as Extension
+A quiet, atmospheric walking simulator about the things we try to keep, and the things we inevitably lose. Walk through a series of familiar sunlit streets and quiet gardens.
 
-This repository can be added as an **extension** in MakeCode.
+Hand-painted Pixel Art: Experience a world of warm memories.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/gongitygongitygong/thecommute** and import
+A Journey of Reflection: No puzzles, no combat. Just a walk through a life shared with someone else.
 
-## Edit this project
+The Reality of Loss: Sometimes, the world doesn't look the way we remember it.
 
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/gongitygongitygong/thecommute** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+Some memories stay bright. Others... we can't quite reach anymore.
