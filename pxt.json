@@ -1,0 +1,34 @@
+{
+    "name": "The Commute(final)",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "Extra Effects": "github:alexszeto/extra-effects#v3.1.0",
+        "arcade-sound-instructions": "github:riknoll/arcade-sound-instructions#399dee51c712f25b27477f1302e99902072db623",
+        "pxt-beta-screen-effects": "github:kiwiphoenix364/pxt-beta-screen-effects#v0.0.26",
+        "sprite-scaling": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.12",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
